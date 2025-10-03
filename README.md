@@ -39,6 +39,3 @@ The main goal of this demo is to showcase the **Servlet-JDBC integration**:
 ## Notes
 - This project is a **hands-on demo** from the JobinTech JEE training.  
 - It focuses on **Servlets, JDBC, and dynamic HTML generation**.
-
-## Screenshot
-![Screenshot Placeholder](path/to/screenshot.png)
